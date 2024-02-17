@@ -1,19 +1,6 @@
----
-title: "CS 1675 Spring 2023 Homework: 05"
-subtitle: "Assigned February 10, 2023; Due: February 18, 2023"
-author: "Matt Semmel"
-date: "Submission time: February 18, 2023 at 11:00PM EST"
-output: html_document
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-#### Collaborators
-
-Include the names of your collaborators here.
-Just me!
 
 ## Overview
 
